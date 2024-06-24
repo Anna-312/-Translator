@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.263,C:\Users\User\OneDrive\Рабочий стол\kurs\Project1.cbproj=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.246,C:\Users\User\OneDrive\Рабочий стол\kurs\File3.cpp=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\File3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.058,C:\Users\User\OneDrive\Рабочий стол\kurs\File1.cpp=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,C:\Users\User\OneDrive\Рабочий стол\kurs\Project1PCH1.h=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.252,=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\File3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.552,=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,C:\Users\User\OneDrive\Рабочий стол\kurs\Unit1.h=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,C:\Users\User\OneDrive\Рабочий стол\kurs\Unit1.dfm=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,C:\Users\User\OneDrive\Рабочий стол\kurs\File2.cpp=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.536,=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,C:\Users\User\OneDrive\Рабочий стол\kurs\Unit1.cpp=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="File1.cpp"/>
+    <File Path="File2.cpp"/>
+    <File Path="Project1.cpp"/>
+    <File Path="File3.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
