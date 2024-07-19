@@ -38,5 +38,5 @@ If (<лог.выр.>) then <оператор>[else <оператор>]<br>
   Пример работы программы:
 </p>
 <div align="center">
-  
+  <img src="img.PNG">
 </div>
